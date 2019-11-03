@@ -45,6 +45,7 @@
               "extractLicenses": true,
               "vendorChunk": false,
               "buildOptimizer": true,
+              "baseHref": "https://a.github.engineer"
               "budgets": [
                 {
                   "type": "initial",
